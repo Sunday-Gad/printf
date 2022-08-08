@@ -1,7 +1,21 @@
 # PRINTF PROJECT
-## project team: 
-Description This team project is part of the ALX Software engineering curriculum. _printf replicates the C standard library printf() function.
 
-What you should learn from this project:
+## project team:
+               **MAIN: SUNDAY GAD**
+               **Collaborator: HAPINESS KEMUEL**
+ 
+##Description:
+*This team project is part of the ALX Software engineering curriculum. _printf replicates the C standard library printf() function
 
-How to use git in a team setting Applying variadic functions to a big project The complexities of printf Managing a lot of files and finding a good workflow
+### Main file
+**_putchar**
+* this function prints an individual character (similar to standard library putchar)
+
+**_printf**
+* The core function where the buffer is defined and freed. All other functions are called from here
+
+**main.h**
+* Header file that contains prototypes for all the functions and a struct holding a function and a character
+
+**man_3_printf**
+* Custom man page Create a man page for your function.
