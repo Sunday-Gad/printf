@@ -6,7 +6,7 @@
  
 ##Description:
 
-*This team project is part of the ALX Software engineering curriculum. _printf replicates the C standard library printf() function
+*This team project is part of the ALX Software engineering curriculum. _printf replicates the C standard library printf() function*
 
 ### Main file
 **_putchar**
